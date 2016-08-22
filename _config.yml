@@ -91,12 +91,12 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
+    - text: Peter
+      url: http://weibo.com/p/1005051937643330/
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+      url: http://jekyllrb.com/themes.html
     message: Friends
   - item:
     - text: Font Awesome
